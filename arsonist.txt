@@ -1,0 +1,11 @@
+helmet_up 2 1 1 a
+chestplate_up 2 1 1 a
+boots_up 2 1 1 a
+p_fire_resistance 5 4 6 a
+rocket_(4_firework_stars) 16 7 11 a
+4_protection 9 1 1 a
+3_thorns 4 1 1 a
+4_fire_protection 6 1 1 a
+4_blast_protection 7 1 1 a
+multishot 5 1 1 a
+3_quick_charge 6 1 1 a

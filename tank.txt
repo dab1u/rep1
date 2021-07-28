@@ -1,0 +1,15 @@
+sword_up 3 1 1 a
+axe_up 3 1 1 a
+helmet_up 2 1 1 a
+chestplate_up 2 1 1 a
+leggins_up 2 1 1 a
+boots_up 2 1 1 a
+golden_apple 8 4 5 a
+p_the_turtle_master 5 3 6 l
+4_protection 12 1 1 a
+3_thorns 5 1 1 a
+4_blast_protection 8 1 1 a
+5_sharpness 8 1 1 a
+2_fire_aspect 2 1 1 a
+3_sweeping_edge 4 1 1 a
+2_knockback 2 1 1 a
